@@ -1,0 +1,2 @@
+# digital-filtering
+eliminate ripple
